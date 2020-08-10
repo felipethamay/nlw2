@@ -1,44 +1,164 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
+<img src="./.github/proffy.png" width='250'>
 
-## Available Scripts
+---
+<a href='#project'>Projeto </a>|
+<a href='#nlw'>NLW </a>|
+<a href='#proffy'>PROFFY </a>|
+<a href='#functionalities'>FUNCIONALIDADES </a>|
+<a href='#days'>DIAS </a>|
+<a href='#tecnologies'>TECNOLOGIAS </a>|
+<a href='#layout'>LAYOUT </a>|
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+## <p id='project'>💻 Projeto </p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Projeto "Proffy", desenvolvido durante a "Next Level Week" durante os dias 3 à 7 de agosto de 2020.
+---
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## <p id='nlw'>🚀 O que é a NLW ? </p>
 
-### `npm test`
+Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align='center'>
+<img src="./.github/logo.svg" width='250'>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</div>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## <p id='proffy'>📚 Proffy </p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## <p id='functionalities'> ⚙ Funcionalidades </p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Calendario das aulas.
+2. O aluno pode entrar em contato com um professor específico.
+3. Listas de professores disponíveis.
+4. Campo de inscrição, para professores.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## <p id='days'>📅 Dias </p>
 
-## Learn More
+#### 1. ✅ Acelerando sua evolução</li>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 2. ✅ Olhando as oportunidades</li>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### 3. 🚧 A escolha da stack</li>
+
+#### 4. 🚧 Até 2 anos em 2 meses</li>
+
+#### 5. 🚧 A milha extra</li>
+
+---
+
+## <p id='tecnologies'>💻 Tecnologias </p>
+
+<a href='https://pt-br.reactjs.org/'>React</a>
+<br/>
+<a href='https://www.typescriptlang.org/'>TypeScript</a>
+<br/>
+<a href='https://nodejs.org/en/download/'>Node.js</a>
+<br/>
+<a href='https://reactnative.dev/'>React Native</a>
+<br/>
+
+---
+
+## <p id='layout'>🎨 Layout ? </p>
+
+<a href='https://reactnative.dev/'>✍ Layout no Figma</a>
+
+<div align='center'>
+<img src="./.github/capa.png" width='500'>
+<img src="./.github/print1.png" width='500'>
+
+</div>
+=======
+<div align='center'>
+<img src="./.github/proffy.png" width='250'>
+
+---
+
+<a href='#nlw'>NLW </a>|
+<a href='#proffy'>PROFFY </a>|
+<a href='#functionalities'>FUNCIONALIDADES </a>|
+<a href='#days'>DIAS </a>|
+<a href='#tecnologies'>TECNOLOGIAS </a>|
+<a href='#layout'>LAYOUT </a>|
+
+</div>
+
+## <p id='nlw'>🚀 O que é a NLW ? </p>
+
+Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy.
+
+<div align='center'>
+<img src="./.github/logo.svg" width='250'>
+
+---
+
+</div>
+
+## <p id='proffy'>📚 Proffy </p>
+
+O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
+
+---
+
+## <p id='functionalities'> ⚙ Funcionalidades </p>
+
+1. Calendario das aulas.
+2. O aluno pode entrar em contato com um professor específico.
+3. Listas de professores disponíveis.
+4. Campo de inscrição, para professores.
+
+---
+
+## <p id='days'>📅 Dias </p>
+
+#### 1. ✅ Acelerando sua evolução</li>
+
+#### 2. 🚧 Olhando as oportunidades</li>
+
+#### 3. 🚧 A escolha da stack</li>
+
+#### 4. 🚧 Até 2 anos em 2 meses</li>
+
+#### 5. 🚧 A milha extra</li>
+
+---
+
+## <p id='tecnologies'>💻 Tecnologias </p>
+
+<a href='https://pt-br.reactjs.org/'>React</a>
+<br/>
+<a href='https://www.typescriptlang.org/'>TypeScript</a>
+<br/>
+<a href='https://nodejs.org/en/download/'>Node.js</a>
+<br/>
+<a href='https://reactnative.dev/'>React Native</a>
+<br/>
+
+---
+
+## <p id='layout'>🎨 Layout ? </p>
+
+<a href='https://www.figma.com/file/ywMHU25xWY9Th0HyfGAirG/Proffy_Web(copy_RocketSeat)?node-id=0%3A1'>✍ Layout no Figma</a>
+
+<div align='center'>
+  
+###  📸 Capa do Proffy
+<img src="./.github/capa.png" width='500'>
+
+
+###  📸 Print da lista de professores
+<img src="./.github/print2.png" width='500'>
+
+</div>
+>>>>>>> a5fc811c040beaaea1f6b8ac204b69664ed0181a
